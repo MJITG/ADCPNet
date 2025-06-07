@@ -10,6 +10,9 @@ Overview of ADCPNet architecture
 main idea
 ![main idea](./md_data/idea.png)
 
+# Requirements
+1.1 <= Pytorch <= 1.7
+
 # Usage
 Train on Sceneflow
 
